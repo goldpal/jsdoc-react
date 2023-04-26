@@ -48,5 +48,5 @@ Ship a new release x.y.z:
 # License
 
 JSDoc React is licensed under the MIT license. See the
-[LICENSE](https://github.com/nullobject/jsdoc-react/blob/master/LICENSE.md)
+[LICENSE](https://github.com/goldpal/jsdoc-react/blob/master/LICENSE.md)
 file for more details.
